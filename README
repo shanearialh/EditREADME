@@ -1,6 +1,15 @@
 # "Hello World" App (Lab 01)
 ## README for Testing (For TA)
-### It features two buttons labeled "Hello" and "Goodbye," allowing the user to enter their name. 
+
+This app features two buttons labeled "Hello" and "Goodbye," allowing the user to enter their name. 
 When the "Hello" button is clicked, the text "Hello" is displayed lower on the screen, followed by the entered name. 
 Similarly, when the "Goodbye" button is clicked, the text "Goodbye" is displayed lower on the screen, along with the entered name.
 
+The app should open on the selected emulator or device.
+You will see two buttons labeled "Hello" and "Goodbye."
+Click the "Hello" button and enter your name into the text field provided.
+Observe that the text "Hello" followed by your entered name is displayed lower on the screen.
+Click the "Goodbye" button and enter your name into the text field.
+Observe that the text "Goodbye" followed by your entered name is displayed lower on the screen.
+
+Test the app with different names and verify that the appropriate greeting ("Hello" or "Goodbye") is displayed along with the entered name.
