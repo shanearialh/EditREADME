@@ -1,0 +1,7 @@
+#Lab 02 Testing Instructions for TA
+## Connect your Android device to your computer or use an emulator.
+###Run the app by clicking the "Run" button in Android Studio.
+####Enter a name in the EditText field and press the "Greet" button on the keyboard.
+#####You should see the greeting message "Hello, [name]!" displayed on the screen.
+###### In the top left corner of the screen, click the "Go to SecondActivity" button to access the next screen.
+####### Click the "Go to Main" button to access the orginal greeting screen. 
